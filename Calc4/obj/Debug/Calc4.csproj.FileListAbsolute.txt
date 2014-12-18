@@ -1,0 +1,9 @@
+C:\Users\Pat\Documents\Visual Studio 2013\Calc4\Calc4\bin\Debug\Calc4.exe.config
+C:\Users\Pat\Documents\Visual Studio 2013\Calc4\Calc4\bin\Debug\Calc4.exe
+C:\Users\Pat\Documents\Visual Studio 2013\Calc4\Calc4\bin\Debug\Calc4.pdb
+C:\Users\Pat\Documents\Visual Studio 2013\Calc4\Calc4\obj\Debug\Calc4.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\Visual Studio 2013\Calc4\Calc4\obj\Debug\Calc4.Form1.resources
+C:\Users\Pat\Documents\Visual Studio 2013\Calc4\Calc4\obj\Debug\Calc4.Properties.Resources.resources
+C:\Users\Pat\Documents\Visual Studio 2013\Calc4\Calc4\obj\Debug\Calc4.csproj.GenerateResource.Cache
+C:\Users\Pat\Documents\Visual Studio 2013\Calc4\Calc4\obj\Debug\Calc4.exe
+C:\Users\Pat\Documents\Visual Studio 2013\Calc4\Calc4\obj\Debug\Calc4.pdb
